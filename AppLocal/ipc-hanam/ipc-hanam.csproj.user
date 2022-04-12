@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\Inverter\MccbView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\TagValueDisplayView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PowerMeter\ElectricalQualityMeterPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PowerMeter\PowerMeterPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Inverter\InverterPowerTrendView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Logger\ElectricalQualityMeterOverviewView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Inverter\InverterDCOutputView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Logger\PowerMeterOverviewView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Inverter\InverterACOutputView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Logger\InverterStringsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Inverter\InverterBasicInforView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Inverter\InverterEnergyYieldsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Inverter\InverterPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Logger\InverterOverviewView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Logger\LoggerPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Devices\DevicesPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Devices\LoggerOverviewView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Overview\PVInformationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Overview\EnergyFlowView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Overview\EnviromentSensorView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Overview\BasicInformationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Overview\EnviromentBenefitsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Overview\EnergyYieldsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AlarmsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SettingsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LayoutPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PowerMetersPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\TrendsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Overview\OverviewPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\HeaderView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LoginPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Logger\ZeroExportPowerMeterOverviewView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PowerMeter\ZeroExportPowerMeterPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\Inverter\MccbView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\TagValueDisplayView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PowerMeter\ElectricalQualityMeterPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PowerMeter\PowerMeterPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Inverter\InverterPowerTrendView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Logger\ElectricalQualityMeterOverviewView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Inverter\InverterDCOutputView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Logger\PowerMeterOverviewView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Inverter\InverterACOutputView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Logger\InverterStringsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Inverter\InverterBasicInforView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Inverter\InverterEnergyYieldsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Inverter\InverterPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Logger\InverterOverviewView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Logger\LoggerPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Devices\DevicesPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Devices\LoggerOverviewView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Overview\PVInformationView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Overview\EnergyFlowView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Overview\EnviromentSensorView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Overview\BasicInformationView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Overview\EnviromentBenefitsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Overview\EnergyYieldsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AlarmsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SettingsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LayoutPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PowerMetersPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\TrendsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Overview\OverviewPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HeaderView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LoginPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Logger\ZeroExportPowerMeterOverviewView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PowerMeter\ZeroExportPowerMeterPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

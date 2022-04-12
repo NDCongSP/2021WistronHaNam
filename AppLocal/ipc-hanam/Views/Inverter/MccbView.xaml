@@ -1,0 +1,71 @@
+﻿<UserControl
+    x:Class="ipc_hanam.MccbView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:ipc_hanam"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DesignHeight="450"
+    d:DesignWidth="100"
+    mc:Ignorable="d">
+    <Viewbox>
+        <Grid Width="100" Height="450">
+            <Rectangle
+                x:Name="_rectMccb"
+                Width="3"
+                Height="20"
+                Margin="0,101,0,0"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Fill="Red"
+                RenderTransformOrigin="0.5,1">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform />
+                        <SkewTransform />
+                        <RotateTransform x:Name="_rotate" Angle="-0" />
+                        <TranslateTransform />
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+
+            <Label
+                x:Name="_title"
+                Margin="62,10,0,0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Content="#1" />
+
+            <Label
+                x:Name="_lbMccbStatus"
+                Margin="57,73,0,0"
+                Content="Closed"
+                Foreground="Red" />
+
+            <StackPanel
+                Margin="62,90,0,0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Orientation="Vertical">
+                <Label Content="MCCB" />
+                <Label Content="3P" />
+                <Label Content="200A" />
+                <Label Content="25kA" />
+            </StackPanel>
+
+            <Image Source="/Resources/Images/MCCB.png" />
+
+            <Border
+                x:Name="_inv"
+                Width="80"
+                Height="83"
+                Margin="11,364,0,0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Background="Green"
+                Cursor="Hand"
+                Opacity="0.2" />
+
+        </Grid>
+    </Viewbox>
+</UserControl>

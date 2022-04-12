@@ -1,0 +1,163 @@
+﻿<UserControl
+    x:Class="ipc_hanam.ZeroExportPowerMeterOverviewView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:hmi="http://schemas.afs.com/2019"
+    xmlns:local="clr-namespace:ipc_hanam"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    mc:Ignorable="d">
+    <hmi:ThemeShadowChrome
+        HorizontalAlignment="Stretch"
+        VerticalAlignment="Stretch"
+        Depth="32"
+        IsShadowEnabled="True">
+        <Border Padding="24,12,12,12" Background="{DynamicResource SystemControlBackgroundAltHighBrush}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Label
+                    Content="{Binding PowerMeter.DisplayName}"
+                    FontSize="24"
+                    FontWeight="Bold" />
+
+                <StackPanel
+                    Grid.Row="1"
+                    Margin="24"
+                    HorizontalAlignment="Stretch"
+                    Orientation="Vertical">
+                    <Grid Margin="0,16,0,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <hmi:SimpleStackPanel Orientation="Vertical" Spacing="12">
+                            <Label
+                                Content="Model:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Device Id:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Status:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Active Power:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Reactive Power:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Total Energy:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Phase AB/BC/CA Voltage:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Phase A/B/C Current:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                        </hmi:SimpleStackPanel>
+
+                        <hmi:SimpleStackPanel
+                            Grid.Column="1"
+                            Margin="12,0,0,0"
+                            Orientation="Vertical"
+                            Spacing="12">
+                            <Label
+                                Content="{Binding PowerMeter.Model, FallbackValue=''}"
+                                FontSize="16"
+                                Opacity="1" />
+                            <Label
+                                Content="{Binding PowerMeter.DeviceId, FallbackValue=''}"
+                                FontSize="16"
+                                Opacity="1" />
+                            <Label
+                                Content="{Binding PowerMeter.Status, FallbackValue=''}"
+                                FontSize="16"
+                                Opacity="1" />
+                            <StackPanel Orientation="Horizontal">
+                                <Label
+                                    Content="{Binding PowerMeter.active_power_total.Value, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                                <Label Content=" " FontSize="16" />
+                                <Label
+                                    Content="{Binding PowerMeter.active_power_total.Unit, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label
+                                    Content="{Binding PowerMeter.reactive_power_total.Value, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                                <Label Content=" " FontSize="16" />
+                                <Label
+                                    Content="{Binding PowerMeter.reactive_power_total.Unit, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label
+                                    Content="{Binding PowerMeter.active_energy_delivered.Value, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                                <Label Content=" " FontSize="16" />
+                                <Label
+                                    Content="{Binding PowerMeter.active_energy_delivered.Unit, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label
+                                    Content="{Binding PowerMeter.voltage_ab.Value, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                                <Label Content=" / " FontSize="16" />
+                                <Label
+                                    Content="{Binding PowerMeter.voltage_bc.Value, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                                <Label Content=" / " FontSize="16" />
+                                <Label
+                                    Content="{Binding PowerMeter.voltage_ca.Value, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                                <Label Content=" V" FontSize="16" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label
+                                    Content="{Binding PowerMeter.current_a.Value, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                                <Label Content=" / " FontSize="16" />
+                                <Label
+                                    Content="{Binding PowerMeter.current_b.Value, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                                <Label Content=" / " FontSize="16" />
+                                <Label
+                                    Content="{Binding PowerMeter.current_c.Value, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                                <Label Content=" A" FontSize="16" />
+                            </StackPanel>
+                        </hmi:SimpleStackPanel>
+                    </Grid>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </hmi:ThemeShadowChrome>
+</UserControl>

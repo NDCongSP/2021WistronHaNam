@@ -1,0 +1,130 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>ipc_hanam</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Images\app_icon.png" />
+    <None Remove="Resources\Images\electric-layout.png" />
+    <None Remove="Resources\Images\icons8-account-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-add-user-male-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-chart-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-co2-reduction-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-combo-chart-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-customer-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-dashboard-layout-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-dynamo-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-electricity-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-emergency-stop-button-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-factory-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-flow-chart-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-forest-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-general-warning-sign-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-home-144.png.crdownload" />
+    <None Remove="Resources\Images\icons8-lightning-bolt-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-mine-cart-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-notification-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-print-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-recycling-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-sensor-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-server-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-solar-panel-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-speed-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-statistics-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-statistics-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-substation-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-sun-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-task-planning-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-telephone-pole-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-temperature-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-thermometer-automation-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-transmission-tower-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-voltage-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-voltmeter-96.png.crdownload" />
+    <None Remove="Resources\Images\icons8-wind-48.png.crdownload" />
+    <None Remove="Resources\Images\icons8-wind-gauge-48.png.crdownload" />
+    <None Remove="Resources\Images\LAYOUT.png" />
+    <None Remove="Resources\Images\MCCB.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+    <PackageReference Include="LiveCharts.Wpf.Core" Version="0.9.8" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="5.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR.Protocols.MessagePack" Version="5.0.8" />
+    <PackageReference Include="MySql.Data" Version="8.0.27" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="SqlKata.Execution" Version="2.3.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ipc-hanam.models\ipc-hanam.models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AFS.HMILibrary.Wpf">
+      <HintPath>..\..\AFS.HMILibrary.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="AFSClient">
+      <HintPath>..\..\AFSClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Images\app_icon.png" />
+    <Resource Include="Resources\Images\electric-layout.png" />
+    <Resource Include="Resources\Images\icons8-account-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-add-user-male-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-chart-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-co2-reduction-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-combo-chart-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-customer-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-dashboard-layout-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-dynamo-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-electricity-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-emergency-stop-button-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-factory-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-flow-chart-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-forest-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-general-warning-sign-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-home-144.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-lightning-bolt-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-mine-cart-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-notification-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-print-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-recycling-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-sensor-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-server-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-solar-panel-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-speed-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-statistics-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-statistics-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-substation-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-sun-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-task-planning-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-telephone-pole-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-temperature-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-thermometer-automation-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-transmission-tower-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-voltage-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-voltmeter-96.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-wind-48.png.crdownload" />
+    <Resource Include="Resources\Images\icons8-wind-gauge-48.png.crdownload" />
+    <Resource Include="Resources\Images\LAYOUT.png" />
+    <Resource Include="Resources\Images\MCCB.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="background.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="ConnectionSchema.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,56 @@
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.deps.json
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\ref\ipc-hanam.models.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.pdb
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.AssemblyInfoInputs.cache
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.AssemblyInfo.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.CoreCompileInputs.cache
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\obj\Debug\net5.0\ref\ipc-hanam.models.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.pdb
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\AFSClient.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\MessagePack.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\MessagePack.Annotations.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\bin\Debug\net5.0\AFSClient.pdb
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.CopyComplete
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.AssemblyReference.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.AssemblyInfoInputs.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.AssemblyInfo.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.CoreCompileInputs.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\obj\Debug\net5.0\ref\ipc-hanam.models.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.pdb
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.deps.json
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\bin\Debug\net5.0\ref\ipc-hanam.models.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.pdb
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\bin\Debug\net5.0\AFSClient.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.CopyComplete
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.AssemblyReference.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.AssemblyReference.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.AssemblyInfoInputs.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.AssemblyInfo.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.CoreCompileInputs.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ref\ipc-hanam.models.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.pdb

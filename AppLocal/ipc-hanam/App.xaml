@@ -1,0 +1,19 @@
+﻿<Application
+    x:Class="ipc_hanam.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:hmi="http://schemas.afs.com/2019"
+    xmlns:local="clr-namespace:ipc_hanam"
+    StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <hmi:ThemeResources RequestedTheme="Light" />
+                <hmi:XamlControlsResources />
+            </ResourceDictionary.MergedDictionaries>
+            <!--  Other app resources here  -->
+
+            <local:UnitConverter x:Key="UnitConverter" />
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

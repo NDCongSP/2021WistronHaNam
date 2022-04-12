@@ -1,0 +1,148 @@
+﻿<UserControl
+    x:Class="ipc_hanam.LoggerOverviewView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:hmi="http://schemas.afs.com/2019"
+    xmlns:local="clr-namespace:ipc_hanam"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    mc:Ignorable="d">
+    <hmi:ThemeShadowChrome
+        HorizontalAlignment="Stretch"
+        VerticalAlignment="Stretch"
+        Depth="32"
+        IsShadowEnabled="True">
+        <hmi:HMIPanel
+            x:Name="_wrapPanel"
+            Padding="24,12,12,12"
+            Background="{DynamicResource SystemControlBackgroundAltHighBrush}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Label
+                    Content="{Binding Logger.DisplayName, FallbackValue=''}"
+                    FontSize="24"
+                    FontWeight="Bold" />
+
+                <StackPanel
+                    Grid.Row="1"
+                    Margin="24"
+                    HorizontalAlignment="Stretch"
+                    Orientation="Vertical">
+                    <Grid Margin="0,16,0,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <hmi:SimpleStackPanel Orientation="Vertical" Spacing="12">
+                            <Label
+                                Content="Model:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Device Id:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Status:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Inverters Runnings:"
+                                FontSize="16"
+                                Opacity="0.8" />
+
+                            <Label
+                                Content="Input Power:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Active Power:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Total Energy Yields"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Energy Yields To Day:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                        </hmi:SimpleStackPanel>
+
+                        <hmi:SimpleStackPanel
+                            Grid.Column="1"
+                            Margin="12,0,0,0"
+                            Orientation="Vertical"
+                            Spacing="12">
+                            <Label
+                                Content="{Binding Logger.Model, FallbackValue=''}"
+                                FontSize="16"
+                                Opacity="1" />
+                            <Label
+                                Content="{Binding Logger.DeviceId, FallbackValue=''}"
+                                FontSize="16"
+                                Opacity="1" />
+                            <Label
+                                Content="{Binding Logger.Status, FallbackValue=''}"
+                                FontSize="16"
+                                Opacity="1" />
+                            <StackPanel Orientation="Horizontal">
+                                <Label
+                                    Content="{Binding Logger.InverterRunnings, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                                <Label Content=" / " FontSize="16" />
+                                <Label
+                                    Content="{Binding Logger.Inverters.Count, FallbackValue=''}"
+                                    FontSize="16"
+                                    Opacity="1" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <hmi:HMILabel
+                                    Padding="0"
+                                    Content=" "
+                                    Converter="{StaticResource UnitConverter}"
+                                    ConverterParameter="kW"
+                                    FontSize="16"
+                                    TagPath="/input_power" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <hmi:HMILabel
+                                    x:Name="_lbActivePower"
+                                    Padding="0"
+                                    Content=" "
+                                    Converter="{StaticResource UnitConverter}"
+                                    ConverterParameter="kW"
+                                    FontSize="16"
+                                    TagPath="/active_power" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <hmi:HMILabel
+                                    Padding="0"
+                                    Content=" "
+                                    Converter="{StaticResource UnitConverter}"
+                                    ConverterParameter="kWh"
+                                    FontSize="16"
+                                    TagPath="/total_energy_yields" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <hmi:HMILabel
+                                    Padding="0"
+                                    Content=" "
+                                    Converter="{StaticResource UnitConverter}"
+                                    ConverterParameter="kWh"
+                                    FontSize="16"
+                                    TagPath="/daily_energy_yields" />
+                            </StackPanel>
+                        </hmi:SimpleStackPanel>
+                    </Grid>
+                </StackPanel>
+            </Grid>
+        </hmi:HMIPanel>
+    </hmi:ThemeShadowChrome>
+</UserControl>

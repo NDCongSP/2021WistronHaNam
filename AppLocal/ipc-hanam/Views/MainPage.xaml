@@ -1,0 +1,117 @@
+﻿<UserControl
+    x:Class="ipc_hanam.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:hmi="http://schemas.afs.com/2019"
+    xmlns:local="clr-namespace:ipc_hanam"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    mc:Ignorable="d">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <local:HeaderView />
+
+        <hmi:NavigationView
+            x:Name="_mainNavigation"
+            Grid.Row="1"
+            VerticalAlignment="Stretch"
+            AlwaysShowHeader="True"
+            CompactPaneLength="40"
+            IsBackButtonVisible="Collapsed"
+            IsTabStop="False"
+            PaneDisplayMode="Left">
+
+            <hmi:NavigationView.HeaderTemplate>
+                <DataTemplate>
+                    <StackPanel
+                        Margin="0,8,0,0"
+                        VerticalAlignment="Center"
+                        Orientation="Horizontal">
+                        <Image
+                            Width="32"
+                            Height="32"
+                            VerticalAlignment="Center"
+                            Source="{Binding IconSource}" />
+                        <Label
+                            Margin="8,0,0,0"
+                            VerticalAlignment="Center"
+                            Content="{Binding DisplayName}"
+                            FontSize="22"
+                            FontWeight="SemiBold" />
+                    </StackPanel>
+                </DataTemplate>
+            </hmi:NavigationView.HeaderTemplate>
+
+            <hmi:NavigationView.MenuItems>
+                <hmi:NavigationViewItem Content="Overview" Tag="Overview">
+                    <hmi:NavigationViewItem.Icon>
+                        <hmi:BitmapIcon
+                            Width="64"
+                            Height="64"
+                            ShowAsMonochrome="False"
+                            UriSource="/Resources/Images/icons8-dashboard-layout-48.png.crdownload" />
+                    </hmi:NavigationViewItem.Icon>
+                </hmi:NavigationViewItem>
+                <!--<hmi:NavigationViewItem Content="Layout" Tag="Layout">
+                    <hmi:NavigationViewItem.Icon>
+                        <hmi:BitmapIcon
+                            Width="64"
+                            Height="64"
+                            ShowAsMonochrome="False"
+                            UriSource="/Resources/Images/icons8-flow-chart-48.png.crdownload" />
+                    </hmi:NavigationViewItem.Icon>
+                </hmi:NavigationViewItem>-->
+                <hmi:NavigationViewItem
+                    x:Name="_menuDeviceManagement"
+                    Content="Devices Management"
+                    Tag="Devices">
+                    <hmi:NavigationViewItem.Icon>
+                        <hmi:BitmapIcon
+                            Width="64"
+                            Height="64"
+                            ShowAsMonochrome="False"
+                            UriSource="/Resources/Images/icons8-dynamo-96.png.crdownload" />
+                    </hmi:NavigationViewItem.Icon>
+                </hmi:NavigationViewItem>
+                <!--<hmi:NavigationViewItem Content="Power Meters" Tag="PowerMeters">
+                    <hmi:NavigationViewItem.Icon>
+                        <hmi:BitmapIcon
+                            Width="64"
+                            Height="64"
+                            ShowAsMonochrome="False"
+                            UriSource="/Resources/Images/icons8-voltmeter-96.png.crdownload" />
+                    </hmi:NavigationViewItem.Icon>
+                </hmi:NavigationViewItem>-->
+                <hmi:NavigationViewItem Content="Trends" Tag="Trends">
+                    <hmi:NavigationViewItem.Icon>
+                        <hmi:BitmapIcon
+                            Width="64"
+                            Height="64"
+                            ShowAsMonochrome="False"
+                            UriSource="/Resources/Images/icons8-combo-chart-48.png.crdownload" />
+                    </hmi:NavigationViewItem.Icon>
+                </hmi:NavigationViewItem>
+                <hmi:NavigationViewItem Content="Alarms" Tag="Alarms">
+                    <hmi:NavigationViewItem.Icon>
+                        <hmi:BitmapIcon
+                            Width="64"
+                            Height="64"
+                            ShowAsMonochrome="False"
+                            UriSource="/Resources/Images/icons8-notification-48.png.crdownload" />
+                    </hmi:NavigationViewItem.Icon>
+                </hmi:NavigationViewItem>
+            </hmi:NavigationView.MenuItems>
+
+            <hmi:NavigationView.Content>
+                <hmi:Frame x:Name="_mainPageFrame" />
+            </hmi:NavigationView.Content>
+        </hmi:NavigationView>
+    </Grid>
+
+</UserControl>

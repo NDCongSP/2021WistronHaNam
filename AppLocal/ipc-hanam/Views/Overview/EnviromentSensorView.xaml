@@ -1,0 +1,112 @@
+﻿<UserControl
+    x:Class="ipc_hanam.EnviromentSensorView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:hmi="http://schemas.afs.com/2019"
+    xmlns:local="clr-namespace:ipc_hanam"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DesignHeight="230"
+    d:DesignWidth="600"
+    mc:Ignorable="d">
+    <hmi:ThemeShadowChrome
+        HorizontalAlignment="Stretch"
+        VerticalAlignment="Stretch"
+        Depth="32"
+        IsShadowEnabled="True">
+        <Border Padding="24,12,12,12" Background="{DynamicResource SystemControlBackgroundAltHighBrush}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Label
+                    x:Name="_lbTitle"
+                    Content="Enviroment Sensors"
+                    FontSize="24"
+                    FontWeight="Bold" />
+
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <hmi:SimpleStackPanel VerticalAlignment="Center" Orientation="Vertical">
+                        <Image
+                            Width="48"
+                            Height="48"
+                            Source="/Resources/Images/icons8-sun-48.png.crdownload" />
+                        <StackPanel HorizontalAlignment="Center" Orientation="Vertical">
+                            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                                <hmi:HMILabel FontSize="24" TagPath="0/Connectivity/summary/tags/radiation" />
+                                <Label Content=" " FontSize="24" />
+                                <Label
+                                    VerticalContentAlignment="Bottom"
+                                    Content="W/m2"
+                                    FontSize="20"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                            <Label
+                                Content="Radiation"
+                                FontSize="16"
+                                Opacity="0.8" />
+                        </StackPanel>
+                    </hmi:SimpleStackPanel>
+
+                    <hmi:SimpleStackPanel
+                        Grid.Column="1"
+                        VerticalAlignment="Center"
+                        Orientation="Vertical">
+                        <Image
+                            Width="48"
+                            Height="48"
+                            Source="/Resources/Images/icons8-temperature-48.png.crdownload" />
+                        <StackPanel HorizontalAlignment="Center" Orientation="Vertical">
+                            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                                <hmi:HMILabel FontSize="24" TagPath="0/Connectivity/summary/tags/panel_temperature" />
+                                <Label Content=" " FontSize="24" />
+                                <Label
+                                    VerticalContentAlignment="Bottom"
+                                    Content="°C"
+                                    FontSize="20"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                            <Label
+                                Content="Panel Temperature"
+                                FontSize="16"
+                                Opacity="0.8" />
+                        </StackPanel>
+                    </hmi:SimpleStackPanel>
+
+                    <hmi:SimpleStackPanel
+                        Grid.Column="2"
+                        VerticalAlignment="Center"
+                        Orientation="Vertical">
+                        <Image
+                            Width="48"
+                            Height="48"
+                            Source="/Resources/Images/icons8-wind-gauge-48.png.crdownload" />
+                        <StackPanel HorizontalAlignment="Center" Orientation="Vertical">
+                            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                                <hmi:HMILabel FontSize="24" TagPath="0/Connectivity/summary/tags/wind_speed" />
+                                <Label Content=" " FontSize="24" />
+                                <Label
+                                    VerticalContentAlignment="Bottom"
+                                    Content="m/s"
+                                    FontSize="20"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                            <Label
+                                Content="Wind Speed"
+                                FontSize="16"
+                                Opacity="0.8" />
+                        </StackPanel>
+                    </hmi:SimpleStackPanel>
+
+                </Grid>
+            </Grid>
+        </Border>
+    </hmi:ThemeShadowChrome>
+</UserControl>

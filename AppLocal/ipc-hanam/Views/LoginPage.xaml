@@ -1,0 +1,56 @@
+﻿<UserControl
+    x:Class="ipc_hanam.LoginPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:hmi="http://schemas.afs.com/2019"
+    xmlns:local="clr-namespace:ipc_hanam"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DesignHeight="900"
+    d:DesignWidth="1600"
+    mc:Ignorable="d">
+    <Grid>
+
+        <Image x:Name="_imgBackground" Stretch="Fill" />
+
+        <hmi:ThemeShadowChrome
+            Width="800"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Depth="16"
+            IsShadowEnabled="True">
+            <Border Padding="48" Background="{DynamicResource SystemControlBackgroundAltHighBrush}">
+                <hmi:SimpleStackPanel Orientation="Vertical" Spacing="16">
+                    <Image
+                        Height="160"
+                        HorizontalAlignment="Center"
+                        Source="/Resources/Images/app_icon.png" />
+                    <Label
+                        HorizontalAlignment="Center"
+                        Content="WISTRON INFOCOMM RENEWABLE ENERGY"
+                        FontSize="24"
+                        FontWeight="Bold" />
+                    <Label
+                        x:Name="_lbTitle"
+                        HorizontalAlignment="Center"
+                        Content="Sign In"
+                        FontSize="18"
+                        FontWeight="SemiBold" />
+                    <TextBox x:Name="_txbUsername" hmi:ControlHelper.PlaceholderText="Username" />
+                    <PasswordBox x:Name="_txbPassword" hmi:ControlHelper.PlaceholderText="Password" />
+                    <Button
+                        x:Name="_btnLogin"
+                        HorizontalAlignment="Stretch"
+                        Content="Login"
+                        FontSize="24" />
+                    <Label
+                        HorizontalAlignment="Center"
+                        Content="- CÔNG TY CỔ PHẦN XÂY DỰNG CÔNG TRÌNH IPC -"
+                        FontSize="18" />
+
+                </hmi:SimpleStackPanel>
+            </Border>
+        </hmi:ThemeShadowChrome>
+
+    </Grid>
+</UserControl>

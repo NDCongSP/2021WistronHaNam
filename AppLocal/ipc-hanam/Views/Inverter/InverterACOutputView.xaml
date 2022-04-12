@@ -1,0 +1,279 @@
+﻿<UserControl
+    x:Class="ipc_hanam.InverterACOutputView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:hmi="http://schemas.afs.com/2019"
+    xmlns:local="clr-namespace:ipc_hanam"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DesignHeight="230"
+    d:DesignWidth="1000"
+    mc:Ignorable="d">
+    <hmi:ThemeShadowChrome
+        HorizontalAlignment="Stretch"
+        VerticalAlignment="Stretch"
+        Depth="32"
+        IsShadowEnabled="True">
+        <Border Padding="24,12,12,12" Background="{DynamicResource SystemControlBackgroundAltHighBrush}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Label
+                    x:Name="_lbTitle"
+                    Content="AC Output"
+                    FontSize="24"
+                    FontWeight="Bold" />
+
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <hmi:SimpleStackPanel Margin="12,24,12,24" Spacing="24">
+                        <Border>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <hmi:HMILabel
+                                        x:Name="_lbActivePower"
+                                        Padding="0"
+                                        Content=" "
+                                        Converter="{StaticResource UnitConverter}"
+                                        ConverterParameter="kW"
+                                        FontSize="24"
+                                        TagPath="/active_power" />
+                                </StackPanel>
+                                <Label
+                                    Content="Active power"
+                                    FontSize="16"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                        </Border>
+                        <Border>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <hmi:HMILabel
+                                        Padding="0"
+                                        Content=" "
+                                        Converter="{StaticResource UnitConverter}"
+                                        ConverterParameter="Hz"
+                                        FontSize="24"
+                                        TagPath="/grid_frequency" />
+                                </StackPanel>
+                                <Label
+                                    Content="Frequency"
+                                    FontSize="16"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                        </Border>
+                    </hmi:SimpleStackPanel>
+
+                    <hmi:SimpleStackPanel
+                        Grid.Column="1"
+                        Margin="12,24,12,24"
+                        Spacing="24">
+                        <Border>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <hmi:HMILabel
+                                        Padding="0"
+                                        Content=" "
+                                        Converter="{StaticResource UnitConverter}"
+                                        ConverterParameter="kVar"
+                                        FontSize="24"
+                                        TagPath="/reactive_power" />
+                                </StackPanel>
+                                <Label
+                                    Content="Reactive power"
+                                    FontSize="16"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                        </Border>
+                        <Border>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <hmi:HMILabel
+                                        Padding="0"
+                                        Content=" "
+                                        FontSize="24"
+                                        TagPath="/power_factor" />
+                                </StackPanel>
+                                <Label
+                                    Content="Power factor"
+                                    FontSize="16"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                        </Border>
+                    </hmi:SimpleStackPanel>
+
+                    <hmi:SimpleStackPanel
+                        Grid.Column="2"
+                        Margin="12,24,12,24"
+                        Spacing="24">
+                        <Border>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <hmi:HMILabel
+                                        Padding="0"
+                                        Content=" "
+                                        Converter="{StaticResource UnitConverter}"
+                                        ConverterParameter="%"
+                                        FontSize="24"
+                                        TagPath="/effciency" />
+                                </StackPanel>
+                                <Label
+                                    Content="Effciency"
+                                    FontSize="16"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                        </Border>
+                        <Border>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <hmi:HMILabel
+                                        Padding="0"
+                                        Content=" "
+                                        Converter="{StaticResource UnitConverter}"
+                                        ConverterParameter="°C"
+                                        FontSize="24"
+                                        TagPath="/temperature" />
+                                </StackPanel>
+                                <Label
+                                    Content="Temperature"
+                                    FontSize="16"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                        </Border>
+                    </hmi:SimpleStackPanel>
+
+                    <hmi:SimpleStackPanel
+                        Grid.Column="3"
+                        Margin="12,24,12,24"
+                        Spacing="24">
+                        <Border>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <hmi:HMILabel
+                                        Padding="0"
+                                        Content=" "
+                                        Converter="{StaticResource UnitConverter}"
+                                        ConverterParameter="V"
+                                        FontSize="24"
+                                        TagPath="/ab_line_voltage" />
+                                </StackPanel>
+                                <Label
+                                    Content="AC phase voltage"
+                                    FontSize="16"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                        </Border>
+                        <Border>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <hmi:HMILabel
+                                        Padding="0"
+                                        Content=" "
+                                        Converter="{StaticResource UnitConverter}"
+                                        ConverterParameter="A"
+                                        FontSize="24"
+                                        TagPath="/phase_a_current" />
+                                </StackPanel>
+                                <Label
+                                    Content="A phase current"
+                                    FontSize="16"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                        </Border>
+                    </hmi:SimpleStackPanel>
+
+                    <hmi:SimpleStackPanel
+                        Grid.Column="4"
+                        Margin="12,24,12,24"
+                        Spacing="24">
+                        <Border>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <hmi:HMILabel
+                                        Padding="0"
+                                        Content=" "
+                                        Converter="{StaticResource UnitConverter}"
+                                        ConverterParameter="V"
+                                        FontSize="24"
+                                        TagPath="/bc_line_voltage" />
+                                </StackPanel>
+                                <Label
+                                    Content="BC phase voltage"
+                                    FontSize="16"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                        </Border>
+                        <Border>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <hmi:HMILabel
+                                        Padding="0"
+                                        Content=" "
+                                        Converter="{StaticResource UnitConverter}"
+                                        ConverterParameter="A"
+                                        FontSize="24"
+                                        TagPath="/phase_b_current" />
+                                </StackPanel>
+                                <Label
+                                    Content="B phase current"
+                                    FontSize="16"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                        </Border>
+                    </hmi:SimpleStackPanel>
+
+                    <hmi:SimpleStackPanel
+                        Grid.Column="5"
+                        Margin="12,24,12,24"
+                        Spacing="24">
+                        <Border>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <hmi:HMILabel
+                                        Padding="0"
+                                        Content=" "
+                                        Converter="{StaticResource UnitConverter}"
+                                        ConverterParameter="V"
+                                        FontSize="24"
+                                        TagPath="/ca_line_voltage" />
+                                </StackPanel>
+                                <Label
+                                    Content="CA phase voltage"
+                                    FontSize="16"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                        </Border>
+                        <Border>
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Horizontal">
+                                    <hmi:HMILabel
+                                        Padding="0"
+                                        Content=" "
+                                        Converter="{StaticResource UnitConverter}"
+                                        ConverterParameter="A"
+                                        FontSize="24"
+                                        TagPath="/phase_c_current" />
+                                </StackPanel>
+                                <Label
+                                    Content="C phase current"
+                                    FontSize="16"
+                                    Opacity="0.8" />
+                            </StackPanel>
+                        </Border>
+                    </hmi:SimpleStackPanel>
+
+                </Grid>
+            </Grid>
+        </Border>
+    </hmi:ThemeShadowChrome>
+</UserControl>

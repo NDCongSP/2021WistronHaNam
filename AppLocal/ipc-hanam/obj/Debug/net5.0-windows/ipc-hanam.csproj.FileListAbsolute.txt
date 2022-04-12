@@ -1,0 +1,413 @@
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.exe
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.deps.json
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.runtimeconfig.json
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.runtimeconfig.dev.json
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\ref\ipc-hanam.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.pdb
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\App.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam_MarkupCompile.cache
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam_MarkupCompile.lref
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.g.resources
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.AssemblyInfoInputs.cache
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.AssemblyInfo.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.csproj.CoreCompileInputs.cache
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ref\ipc-hanam.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.pdb
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.genruntimeconfig.cache
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\MessagePack.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\MessagePack.Annotations.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\AFS.HMILibrary.Wpf.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\AFSClient.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\AFS.HMILibrary.Wpf.pdb
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\AFSClient.pdb
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\App.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.csproj.AssemblyReference.cache
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\background.jpg
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.models.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.models.pdb
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\LoginPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\LoginPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\MainPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\MainPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\HeaderView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\HeaderView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\LayoutPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMetersPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\TrendsPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\LayoutPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMetersPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\TrendsPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\AlarmsPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\SettingsPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\AlarmsPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\SettingsPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\BasicInformationView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnergyYieldsView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnviromentBenefitsView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\OverviewPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\BasicInformationView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnergyYieldsView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnviromentBenefitsView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\OverviewPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\MainWindow.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnviromentSensorView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnviromentSensorView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnergyFlowView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnergyFlowView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\PVInformationView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\PVInformationView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Devices\DevicesPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Devices\LoggerOverviewView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Devices\DevicesPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Devices\LoggerOverviewView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\InverterOverviewView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\LoggerPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\InverterOverviewView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\LoggerPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterBasicInforView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterEnergyYieldsView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterBasicInforView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterEnergyYieldsView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\InverterStringsView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\InverterStringsView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterACOutputView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterACOutputView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterDCOutputView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterDCOutputView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\ElectricalQualityMeterOverviewView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\PowerMeterOverviewView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\ElectricalQualityMeterOverviewView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\PowerMeterOverviewView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\LiveCharts.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\LiveCharts.Wpf.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterPowerTrendView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterPowerTrendView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\ElectricalQualityMeterPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\PowerMeterPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\ElectricalQualityMeterPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\PowerMeterPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\TagValueDisplayView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\TagValueDisplayView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\ZeroExportPowerMeterOverviewView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\ZeroExportPowerMeterPage.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\ZeroExportPowerMeterOverviewView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\ZeroExportPowerMeterPage.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\ConnectionSchema.json
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\MccbView.g.cs
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\MccbView.baml
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Dapper.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\Humanizer.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\SqlKata.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\SqlKata.Execution.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+E:\Work\Others\Github\ipc-hanam\src\ipc-hanam\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.csproj.CopyComplete
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\background.jpg
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.exe
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\ConnectionSchema.json
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.deps.json
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.runtimeconfig.json
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.runtimeconfig.dev.json
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\ref\ipc-hanam.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.pdb
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Dapper.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Humanizer.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\LiveCharts.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\LiveCharts.Wpf.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\MessagePack.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\MessagePack.Annotations.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\SqlKata.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\SqlKata.Execution.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\AFS.HMILibrary.Wpf.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\AFSClient.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.models.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\MySql.Data.DLL
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.models.pdb
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.csproj.AssemblyReference.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\MainWindow.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\AlarmsPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Devices\DevicesPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Devices\LoggerOverviewView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\HeaderView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterACOutputView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterBasicInforView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterDCOutputView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterEnergyYieldsView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterPowerTrendView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\MccbView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\LayoutPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\ElectricalQualityMeterOverviewView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\InverterOverviewView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\InverterStringsView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\LoggerPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\PowerMeterOverviewView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\ZeroExportPowerMeterOverviewView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\LoginPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\MainPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\BasicInformationView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnergyFlowView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnergyYieldsView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnviromentBenefitsView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnviromentSensorView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\OverviewPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\PVInformationView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMetersPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\ElectricalQualityMeterPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\PowerMeterPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\ZeroExportPowerMeterPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\SettingsPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\TagValueDisplayView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\TrendsPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\App.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam_MarkupCompile.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam_MarkupCompile.lref
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\App.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\MainWindow.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\AlarmsPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Devices\DevicesPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Devices\LoggerOverviewView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\HeaderView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterACOutputView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterBasicInforView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterDCOutputView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterEnergyYieldsView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterPowerTrendView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\MccbView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\LayoutPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\ElectricalQualityMeterOverviewView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\InverterOverviewView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\InverterStringsView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\LoggerPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\PowerMeterOverviewView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\ZeroExportPowerMeterOverviewView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\LoginPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\MainPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\BasicInformationView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnergyFlowView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnergyYieldsView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnviromentBenefitsView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnviromentSensorView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\OverviewPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\PVInformationView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMetersPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\ElectricalQualityMeterPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\PowerMeterPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\ZeroExportPowerMeterPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\SettingsPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\TagValueDisplayView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\Views\TrendsPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.g.resources
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.AssemblyInfoInputs.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.AssemblyInfo.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.csproj.CoreCompileInputs.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.csproj.CopyComplete
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ref\ipc-hanam.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.pdb
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.genruntimeconfig.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Google.Protobuf.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\ZstdNet.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.dll.config
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.csproj.AssemblyReference.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\HeaderView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\MccbView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\LayoutPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\InverterStringsView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\OverviewPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMetersPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\ElectricalQualityMeterPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\PowerMeterPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\ZeroExportPowerMeterPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\SettingsPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam_MarkupCompile.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam_MarkupCompile.lref
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ref\ipc-hanam.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.pdb
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\background.jpg
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.exe
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\ConnectionSchema.json
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.dll.config
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.deps.json
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.runtimeconfig.json
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.runtimeconfig.dev.json
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\ref\ipc-hanam.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.pdb
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Dapper.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Google.Protobuf.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Humanizer.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\LiveCharts.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\LiveCharts.Wpf.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\MessagePack.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\MessagePack.Annotations.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\MySql.Data.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\ZstdNet.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\SqlKata.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\SqlKata.Execution.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\AFS.HMILibrary.Wpf.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\AFSClient.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.models.dll
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\bin\Debug\net5.0-windows\ipc-hanam.models.pdb
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\MainWindow.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\AlarmsPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Devices\DevicesPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Devices\LoggerOverviewView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterACOutputView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterBasicInforView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterDCOutputView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterEnergyYieldsView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterPowerTrendView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\ElectricalQualityMeterOverviewView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\InverterOverviewView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\LoggerPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\PowerMeterOverviewView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\ZeroExportPowerMeterOverviewView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\LoginPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\MainPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\BasicInformationView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnergyFlowView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnergyYieldsView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnviromentBenefitsView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnviromentSensorView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\PVInformationView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\TagValueDisplayView.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\TrendsPage.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\App.g.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\App.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\MainWindow.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\AlarmsPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Devices\DevicesPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Devices\LoggerOverviewView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\HeaderView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterACOutputView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterBasicInforView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterDCOutputView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterEnergyYieldsView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\InverterPowerTrendView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Inverter\MccbView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\LayoutPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\ElectricalQualityMeterOverviewView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\InverterOverviewView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\InverterStringsView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\LoggerPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\PowerMeterOverviewView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Logger\ZeroExportPowerMeterOverviewView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\LoginPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\MainPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\BasicInformationView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnergyFlowView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnergyYieldsView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnviromentBenefitsView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\EnviromentSensorView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\OverviewPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\Overview\PVInformationView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMetersPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\ElectricalQualityMeterPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\PowerMeterPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\PowerMeter\ZeroExportPowerMeterPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\SettingsPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\TagValueDisplayView.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\Views\TrendsPage.baml
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.g.resources
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.AssemblyInfoInputs.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.AssemblyInfo.cs
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.csproj.CoreCompileInputs.cache
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.csproj.CopyComplete
+G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\ipc-hanam.genruntimeconfig.cache

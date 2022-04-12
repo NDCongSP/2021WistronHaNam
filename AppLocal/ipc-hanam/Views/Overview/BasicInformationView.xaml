@@ -1,0 +1,113 @@
+﻿<UserControl
+    x:Class="ipc_hanam.BasicInformationView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:hmi="http://schemas.afs.com/2019"
+    xmlns:local="clr-namespace:ipc_hanam"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DesignHeight="600"
+    d:DesignWidth="600"
+    mc:Ignorable="d">
+    <hmi:ThemeShadowChrome
+        HorizontalAlignment="Stretch"
+        VerticalAlignment="Stretch"
+        Depth="32"
+        IsShadowEnabled="True">
+        <Border Padding="24,12,12,12" Background="{DynamicResource SystemControlBackgroundAltHighBrush}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Label
+                    Content="Basic Informations"
+                    FontSize="24"
+                    FontWeight="Bold" />
+
+                <StackPanel
+                    Grid.Row="1"
+                    Margin="24"
+                    HorizontalAlignment="Stretch"
+                    Orientation="Vertical">
+                    <Label
+                        Content="{Binding Station.DisplayName, FallbackValue=''}"
+                        FontSize="18"
+                        FontWeight="Bold" />
+                    <Grid Margin="0,16,0,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <hmi:SimpleStackPanel Orientation="Vertical" Spacing="12">
+                            <Label
+                                Content="Address:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Status:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Rated DC Capacity:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Rated AC Capacitor:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Module Watt:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Total Modules:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="Total Inverters:"
+                                FontSize="16"
+                                Opacity="0.8" />
+                        </hmi:SimpleStackPanel>
+
+                        <hmi:SimpleStackPanel
+                            Grid.Column="1"
+                            Margin="12,0,0,0"
+                            Orientation="Vertical"
+                            Spacing="12">
+                            <TextBlock
+                                FontSize="16"
+                                Opacity="0.8"
+                                Text="{Binding Station.Address, FallbackValue=''}"
+                                TextWrapping="WrapWithOverflow" />
+                            <Label
+                                Content="{Binding Station.ConnectionStatus, FallbackValue=''}"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="{Binding Station.RatedDCCapacity, FallbackValue=''}"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="{Binding Station.RatedACCapacitor, FallbackValue=''}"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="{Binding Station.ModuleWatt, FallbackValue=''}"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="{Binding Station.TotalModules, FallbackValue=''}"
+                                FontSize="16"
+                                Opacity="0.8" />
+                            <Label
+                                Content="{Binding Station.TotalInverters, FallbackValue=''}"
+                                FontSize="16"
+                                Opacity="0.8" />
+                        </hmi:SimpleStackPanel>
+                    </Grid>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </hmi:ThemeShadowChrome>
+</UserControl>
