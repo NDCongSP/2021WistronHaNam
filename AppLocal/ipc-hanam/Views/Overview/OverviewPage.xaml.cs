@@ -180,6 +180,8 @@ namespace ipc_hanam
                 {
                     IoC.Instance.monthly_energy_yields.WriteWithoutResponse(monthEnergy, 3);
                     IoC.Instance.yearly_energy_yields.WriteWithoutResponse(yearEnergy, 3);
+
+                    double daily_energy_yields = 0;
                 }
             }
             catch { }

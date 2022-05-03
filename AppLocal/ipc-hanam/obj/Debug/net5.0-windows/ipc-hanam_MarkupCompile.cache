@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam\obj\Debug\net5.0-windows\
 ipc_hanam
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam\App.xaml
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam\App.xaml
 351128942647
 
 44-1128922558
-2312047950631
+231802863655
 MainWindow.xaml;Views\AlarmsPage.xaml;Views\Devices\DevicesPage.xaml;Views\Devices\LoggerOverviewView.xaml;Views\HeaderView.xaml;Views\Inverter\InverterACOutputView.xaml;Views\Inverter\InverterBasicInforView.xaml;Views\Inverter\InverterDCOutputView.xaml;Views\Inverter\InverterEnergyYieldsView.xaml;Views\Inverter\InverterPage.xaml;Views\Inverter\InverterPowerTrendView.xaml;Views\Inverter\MccbView.xaml;Views\LayoutPage.xaml;Views\Logger\ElectricalQualityMeterOverviewView.xaml;Views\Logger\InverterOverviewView.xaml;Views\Logger\InverterStringsView.xaml;Views\Logger\LoggerPage.xaml;Views\Logger\PowerMeterOverviewView.xaml;Views\Logger\ZeroExportPowerMeterOverviewView.xaml;Views\LoginPage.xaml;Views\MainPage.xaml;Views\Overview\BasicInformationView.xaml;Views\Overview\EnergyFlowView.xaml;Views\Overview\EnergyYieldsView.xaml;Views\Overview\EnviromentBenefitsView.xaml;Views\Overview\EnviromentSensorView.xaml;Views\Overview\OverviewPage.xaml;Views\Overview\PVInformationView.xaml;Views\PowerMetersPage.xaml;Views\PowerMeter\ElectricalQualityMeterPage.xaml;Views\PowerMeter\PowerMeterPage.xaml;Views\PowerMeter\ZeroExportPowerMeterPage.xaml;Views\SettingsPage.xaml;Views\TagValueDisplayView.xaml;Views\TrendsPage.xaml;
 
 False

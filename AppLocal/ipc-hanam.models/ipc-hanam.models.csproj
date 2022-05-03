@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <Reference Include="AFSClient">
-      <HintPath>..\AFSClient.dll</HintPath>
+      <HintPath>..\..\AFSClient.dll</HintPath>
     </Reference>
   </ItemGroup>
 

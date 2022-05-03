@@ -54,3 +54,17 @@ G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210
 G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.dll
 G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ref\ipc-hanam.models.dll
 G:\My Drive\0.MyCompany\2.Báo Giá Và Hợp Đồng\1.Hợp Đồng\2021\20210722_IPCWistron HaNam_MrDuc\AppScada\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.pdb
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.AssemblyInfoInputs.cache
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.AssemblyInfo.cs
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.CoreCompileInputs.cache
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.dll
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ref\ipc-hanam.models.dll
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.pdb
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.deps.json
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.dll
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ref\ipc-hanam.models.dll
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.pdb
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\AFSClient.dll
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.CopyComplete
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.AssemblyReference.cache

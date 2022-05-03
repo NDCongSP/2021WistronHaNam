@@ -2059,11 +2059,12 @@
       ]
     },
     "System.Diagnostics.Tracing/4.3.0": {
-      "sha512": "EIJi4oox7XPcIATF8GrdQxPrE9ajhFq2g0+aKOu5l3WKARqg1zKIrxWX8liVKYdCI+kWvc3PtR6M3xRzsVpzzQ==",
+      "sha512": "rswfv0f/Cqkh78rA5S8eN8Neocz234+emGCtTF3lxPY96F+mmmUen6tbn0glN6PMvlKQb9bPAY5e9u7fgPTkKw==",
       "type": "package",
       "path": "system.diagnostics.tracing/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2255,11 +2256,12 @@
       ]
     },
     "System.IO/4.3.0": {
-      "sha512": "sNnNs9nx7GW272kJ3MEQHOyV9R/mT1PQIjq6wB19+2ctC3tz+BPfSVpY5uMn3q2uFHgD/9qjE9hczktY6Eogpg==",
+      "sha512": "3qjaHvxQPDpSOYICjUoTsmoq5u6QJAFRUITgeT/4gqkF1bajbSmb1kwSxEA8AHlofqgcKJcM8udgieRNhaJ5Cg==",
       "type": "package",
       "path": "system.io/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2569,11 +2571,12 @@
       ]
     },
     "System.Reflection.Primitives/4.3.0": {
-      "sha512": "oyzLKGfxzsVUbtWgt6GFZKTx42i5K7lIbx4qDk7nAkppYTwzNvWn5hFO7iY80ksUj120jAyBtGZDa23FhBuEeA==",
+      "sha512": "5RXItQz5As4xN2/YUDxdpsEkMhvw3e6aNveFXUn4Hl/udNTCNhnKp8lT9fnc3MhvGKh1baak5CovpuQUXHAlIA==",
       "type": "package",
       "path": "system.reflection.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3474,34 +3477,41 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\ncdat\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\My Drive\\0.MyCompany\\2.Báo Giá Và Hợp Đồng\\1.Hợp Đồng\\2021\\20210722_IPCWistron HaNam_MrDuc\\AppScada\\AppLocal\\ipc-hanam\\ipc-hanam.csproj",
+      "projectUniqueName": "D:\\Work\\Github\\2021WistronHaNam\\AppLocal\\ipc-hanam\\ipc-hanam.csproj",
       "projectName": "ipc-hanam",
-      "projectPath": "G:\\My Drive\\0.MyCompany\\2.Báo Giá Và Hợp Đồng\\1.Hợp Đồng\\2021\\20210722_IPCWistron HaNam_MrDuc\\AppScada\\AppLocal\\ipc-hanam\\ipc-hanam.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "G:\\My Drive\\0.MyCompany\\2.Báo Giá Và Hợp Đồng\\1.Hợp Đồng\\2021\\20210722_IPCWistron HaNam_MrDuc\\AppScada\\AppLocal\\ipc-hanam\\obj\\",
+      "projectPath": "D:\\Work\\Github\\2021WistronHaNam\\AppLocal\\ipc-hanam\\ipc-hanam.csproj",
+      "packagesPath": "C:\\Users\\ncdat\\.nuget\\packages\\",
+      "outputPath": "D:\\Work\\Github\\2021WistronHaNam\\AppLocal\\ipc-hanam\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+        "C:\\Users\\ncdat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0-windows7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -3509,8 +3519,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "G:\\My Drive\\0.MyCompany\\2.Báo Giá Và Hợp Đồng\\1.Hợp Đồng\\2021\\20210722_IPCWistron HaNam_MrDuc\\AppScada\\AppLocal\\ipc-hanam.models\\ipc-hanam.models.csproj": {
-              "projectPath": "G:\\My Drive\\0.MyCompany\\2.Báo Giá Và Hợp Đồng\\1.Hợp Đồng\\2021\\20210722_IPCWistron HaNam_MrDuc\\AppScada\\AppLocal\\ipc-hanam.models\\ipc-hanam.models.csproj"
+            "D:\\Work\\Github\\2021WistronHaNam\\AppLocal\\ipc-hanam.models\\ipc-hanam.models.csproj": {
+              "projectPath": "D:\\Work\\Github\\2021WistronHaNam\\AppLocal\\ipc-hanam.models\\ipc-hanam.models.csproj"
             }
           }
         }
@@ -3572,7 +3582,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   },

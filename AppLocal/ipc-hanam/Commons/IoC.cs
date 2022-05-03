@@ -28,6 +28,7 @@ namespace ipc_hanam
         public IServerConnector ServerConnector { get; set; }
 
         System.Timers.Timer _timerLog;
+        System.Timers.Timer _syncTimer;
         private LogSumaryModel logSumary = new LogSumaryModel();//chứa giá trị để log data theo thời gian 5 phút
         private int dbLogInterval = 0;
 
@@ -129,6 +130,112 @@ namespace ipc_hanam
             _timerLog.Interval = GetNextLogInterval(dbLogInterval);
             _timerLog.Elapsed += _timerLog_Elapsed;
             _timerLog.Start();
+
+            _syncTimer = new System.Timers.Timer();
+            _syncTimer.AutoReset = false;
+            _syncTimer.Interval = 5000;
+            _syncTimer.Elapsed += _syncTimer_Elapsed;
+            _syncTimer.Start();
+        }
+
+        private void _syncTimer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
+        {
+            _syncTimer.Enabled = false;
+            try
+            {
+                double daily_energy_yields_value = Station.Loggers.Select(x => x.daily_energy_yields).Sum(x =>
+                {
+                    if (double.TryParse(x.Value, out double value))
+                    {
+                        return value;
+                    }
+                    return 0;
+                });
+                this.daily_energy_yields.WriteWithoutResponse(daily_energy_yields_value, 3);
+
+                double co2_reduction_value = Station.Loggers.Select(x => x.co2_reduction).Sum(x =>
+                {
+                    if (double.TryParse(x.Value, out double value))
+                    {
+                        return value;
+                    }
+                    return 0;
+                });
+                this.co2_reduction.WriteWithoutResponse(co2_reduction_value, 3);
+
+                double total_energy_yields_value = Station.Loggers.Select(x => x.total_energy_yields).Sum(x =>
+                {
+                    if (double.TryParse(x.Value, out double value))
+                    {
+                        return value;
+                    }
+                    return 0;
+                });
+                this.total_energy_yields.WriteWithoutResponse(total_energy_yields_value, 3);
+
+                double total_input_power_value = Station.Loggers.Select(x => x.input_power).Sum(x =>
+                {
+                    if (double.TryParse(x.Value, out double value))
+                    {
+                        return value;
+                    }
+                    return 0;
+                });
+                this.total_input_power.WriteWithoutResponse(total_input_power_value, 3);
+
+                double total_output_power_value = Station.Loggers.Select(x => x.active_power).Sum(x =>
+                {
+                    if (double.TryParse(x.Value, out double value))
+                    {
+                        return value;
+                    }
+                    return 0;
+                });
+                this.total_output_power.WriteWithoutResponse(total_output_power_value, 3);
+
+                double total_active_power_pm_value = Station.Loggers.Select(x => x.EnergyPowerMeter?.active_power_total).Sum(x =>
+                {
+                    if (double.TryParse(x.Value, out double value))
+                    {
+                        return value;
+                    }
+                    return 0;
+                });
+                this.total_active_power_pm.WriteWithoutResponse(total_active_power_pm_value, 3);
+
+                double total_energy_pm_value = Station.Loggers.Select(x => x.EnergyPowerMeter?.active_energy_delivered).Sum(x =>
+                {
+                    if (double.TryParse(x.Value, out double value))
+                    {
+                        return value;
+                    }
+                    return 0;
+                });
+                this.total_energy_pm.WriteWithoutResponse(total_energy_pm_value, 3);
+
+                double total_active_power_ze_value = Station.Loggers.Select(x => x.ZeroExportPowerMeter?.active_power_total).Sum(x =>
+                {
+                    if (double.TryParse(x.Value, out double value))
+                    {
+                        return value;
+                    }
+                    return 0;
+                });
+                this.total_active_power_ze.WriteWithoutResponse(total_active_power_ze_value, 3);
+
+                double total_energy_ze_value = Station.Loggers.Select(x => x.ZeroExportPowerMeter?.active_energy_delivered).Sum(x =>
+                {
+                    if (double.TryParse(x.Value, out double value))
+                    {
+                        return value;
+                    }
+                    return 0;
+                });
+                this.total_energy_ze.WriteWithoutResponse(total_energy_ze_value, 3);
+
+            }
+            catch { }
+            _syncTimer.Enabled = true;
         }
 
         private void _timerLog_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
