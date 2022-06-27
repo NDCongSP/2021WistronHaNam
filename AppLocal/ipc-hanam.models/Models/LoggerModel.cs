@@ -152,13 +152,18 @@ namespace ipc_hanam.models
 
         // Tags
         public TagNode dc_current { get; set; }
+        [Subscribe]
         public TagNode input_power { get; set; }
+        [Subscribe]
         public TagNode co2_reduction { get; set; }
+        [Subscribe]
         public TagNode active_power { get; set; }
         public TagNode reactive_power { get; set; }
         [Subscribe]
         public TagNode plant_status { get; set; }
+        [Subscribe]
         public TagNode total_energy_yields { get; set; }
+        [Subscribe]
         public TagNode daily_energy_yields { get; set; }
         public TagNode phase_a_current { get; set; }
         public TagNode phase_b_current { get; set; }

@@ -60,12 +60,14 @@ namespace ipc_hanam.models
         public TagNode current_a { get; set; }
         public TagNode current_b { get; set; }
         public TagNode current_c { get; set; }
+        [Subscribe]
         public TagNode active_power_total { get; set; }
         public TagNode reactive_power_total { get; set; }
         public TagNode power_factor { get; set; }
         public TagNode active_power_a { get; set; }
         public TagNode active_power_b { get; set; }
         public TagNode active_power_c { get; set; }
+        [Subscribe]
         public TagNode active_energy_delivered { get; set; }
 
 

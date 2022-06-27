@@ -100,6 +100,7 @@ namespace ipc_hanam.models
         public TagNode active_power_c { get; set; }
 
         [DisplayName("Total Active Power")]
+        [Subscribe]
         public TagNode active_power_total { get; set; }
 
         [DisplayName("Phase A Reactive Power")]
@@ -130,6 +131,7 @@ namespace ipc_hanam.models
         public TagNode frequency { get; set; }
 
         [DisplayName("Total Energy Delivered")]
+        [Subscribe]
         public TagNode active_energy_delivered { get; set; }
 
         [DisplayName("THD Voltage AB")]

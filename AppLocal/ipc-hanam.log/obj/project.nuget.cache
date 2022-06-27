@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XP/3gOadogbxjdbagUipMfDg+WnlwjYDJm/wDSEh/CBJmPi1SVZUOxdpMn9jhrCNF6cmj3SvTO7hMvJ4gZp1vA==",
+  "dgSpecHash": "QWJhqupZNXWUkyGmiQql7MoGJDK/S03l+ksB+EdNIB/SZdjd28YYY1T/pnqJmu4jqdGiCWJi2H3i+6HJyl+rIg==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Github\\2021WistronHaNam\\AppLocal\\ipc-hanam.log\\ipc-hanam.log.csproj",
+  "projectFilePath": "D:\\Work\\Others\\Github\\2021WistronHaNam\\AppLocal\\ipc-hanam.log\\ipc-hanam.log.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ncdat\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\ncdat\\.nuget\\packages\\dapper\\1.50.5\\dapper.1.50.5.nupkg.sha512",

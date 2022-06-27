@@ -68,3 +68,17 @@ D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ipc-h
 D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\AFSClient.dll
 D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.CopyComplete
 D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.AssemblyReference.cache
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.deps.json
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.dll
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.pdb
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\AFSClient.dll
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.AssemblyReference.cache
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.AssemblyInfoInputs.cache
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.AssemblyInfo.cs
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.CoreCompileInputs.cache
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.CopyComplete
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.dll
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\refint\ipc-hanam.models.dll
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.pdb
+D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ref\ipc-hanam.models.dll
