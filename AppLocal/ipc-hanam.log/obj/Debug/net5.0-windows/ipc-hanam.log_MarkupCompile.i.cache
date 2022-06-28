@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.log\obj\Debug\net5.0-windows\
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.log\obj\Debug\net5.0-windows\
 ipc_hanam.log
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.log\App.xaml
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.log\App.xaml
 11407045341
 
 51077569320
-2281326320433
+228733788549
 MainWindow.xaml;
 
-True
+False
 

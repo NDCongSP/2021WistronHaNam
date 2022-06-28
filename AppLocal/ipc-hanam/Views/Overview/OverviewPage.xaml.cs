@@ -288,6 +288,7 @@ namespace ipc_hanam
                     .SelectRaw("max(Energy) as `MaxEnergy`")
                     .Where("DateTime", ">=", DateTime.Parse($"{minTime:yyyy-MM-dd 00:00:00}"))
                     .Where("DateTime", "<=", DateTime.Parse($"{maxTime:yyyy-MM-dd 23:59:59}"))
+                    .Where("Energy", "!=", 0)
                     .WhereNotNull("Energy")
                     .GroupByRaw("DATE_FORMAT(DateTime, '%m%d')");
                 var sqlResult = compiler.Compile(query);
@@ -314,6 +315,7 @@ namespace ipc_hanam
                     .SelectRaw("max(Energy) as `MaxEnergy`")
                     .Where("DateTime", ">=", DateTime.Parse($"{minTime:yyyy-MM-dd 00:00:00}"))
                     .Where("DateTime", "<=", DateTime.Parse($"{maxTime:yyyy-MM-dd 23:59:59}"))
+                    .Where("Energy", "!=", 0)
                     .WhereNotNull("Energy")
                     .GroupByRaw("DATE_FORMAT(DateTime, '%m')");
                 var sqlResult = compiler.Compile(query);

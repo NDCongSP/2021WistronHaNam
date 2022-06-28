@@ -240,7 +240,7 @@ namespace ipc_hanam
 
         private void _timerLog_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
         {
-            _timerLog.Enabled = false;
+            _timerLog.Stop();
 
             try
             {

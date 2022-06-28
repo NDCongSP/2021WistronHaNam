@@ -67,7 +67,6 @@ D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ref\i
 D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.pdb
 D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\AFSClient.dll
 D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.CopyComplete
-D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.AssemblyReference.cache
 D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.deps.json
 D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.dll
 D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\bin\Debug\net5.0\ipc-hanam.models.pdb
@@ -82,3 +81,4 @@ D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.
 D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\refint\ipc-hanam.models.dll
 D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.pdb
 D:\Work\Others\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ref\ipc-hanam.models.dll
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.models\obj\Debug\net5.0\ipc-hanam.models.csproj.AssemblyReference.cache

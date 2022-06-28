@@ -133,3 +133,4 @@ D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.log\obj\Debug\net5.0-windows\
 D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.log\obj\Debug\net5.0-windows\ref\ipc-hanam.log.dll
 D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.log\obj\Debug\net5.0-windows\ipc-hanam.log.pdb
 D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.log\obj\Debug\net5.0-windows\ipc-hanam.log.genruntimeconfig.cache
+D:\Work\Github\2021WistronHaNam\AppLocal\ipc-hanam.log\obj\Debug\net5.0-windows\ipc-hanam.log.csproj.AssemblyReference.cache
