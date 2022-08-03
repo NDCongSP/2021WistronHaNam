@@ -1,0 +1,4 @@
+D:\Works\DuAn\2020\PhuongQuan\SourceCode\DKC Nghe An\Web\phuongquan-dkc\TagAFSDriverWeb.json
+D:\Works\DuAn\2020\PhuongQuan\SourceCode\DKC Nghe An\Web\TagAFSDriverWeb.json
+C:\Users\ThinkKING\OneDrive\AFS\PathScada\UDT\yuyy.json
+C:\Users\ThinkKING\OneDrive\AFS\PathScada\UDT\3322333.json

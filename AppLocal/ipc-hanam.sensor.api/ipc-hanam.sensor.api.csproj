@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>ipc_hanam.sensor.api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="AFS.HMILibrary.Wpf">
+			<HintPath>..\..\AFS.HMILibrary.Wpf.dll</HintPath>
+		</Reference>
+		<Reference Include="AFSClient">
+			<HintPath>..\..\AFSClient.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+</Project>

@@ -30,7 +30,7 @@ namespace ipc_hanam
         System.Timers.Timer _timerLog;
         System.Timers.Timer _syncTimer;
         private LogSumaryModel logSumary = new LogSumaryModel();//chứa giá trị để log data theo thời gian 5 phút
-        private int dbLogInterval = 0;
+        private int dbLogInterval = 300000;
 
         private IoC()
         {

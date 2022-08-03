@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sZ6OJ/gmk96G82QgHzGYwW0LXMbrWw3i79eYy0ELVzcRpDX0EkTUTO8RbQEtDX4t5hiZ7yDNjyMJX24Vx9nzSg==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Github\\2021WistronHaNam\\AppLocal\\ipc-hanam.sensor.api\\ipc-hanam.sensor.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ncdat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ncdat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ncdat\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ncdat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ncdat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ncdat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
